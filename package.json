@@ -1,6 +1,6 @@
 {
   "author": "Zach Carter <zach@carter.name> (http://zaa.ch)",
-  "name": "jsonlint",
+  "name": "@paulvollmer/jsonlint",
   "description": "Validate JSON",
   "keywords": [
     "json",
