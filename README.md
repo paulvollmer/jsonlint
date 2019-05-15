@@ -6,7 +6,7 @@ A pure [JavaScript version](http://zaach.github.com/jsonlint/) of the service pr
 ## Command line interface
 Install jsonlint with npm to use the command line interface:
 
-    npm install paulvollmer/jsonlint -g
+    npm install @paulvollmer/jsonlint -g
 
 Validate a file like so:
 
